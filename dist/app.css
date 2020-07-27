@@ -1,0 +1,28 @@
+/* ________ RESET ________ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ________ REGOLE GENERALI ________ */
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-color: royalblue;
+  color: white;
+  padding: 30px;
+  font-size: 25px;
+}
+
+main td {
+  border: 2px solid black;
+  padding: 10px 30px;
+  background-color: lightblue;
+  font-size: 20px;
+}
+

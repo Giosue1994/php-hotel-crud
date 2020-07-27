@@ -4,5 +4,5 @@
   $password = "";
   $dbname = "boolean_hotel";
 
-  $url = "http://localhost:8888/php-hotel-crud/";
+  $url = 'http://localhost:8888/php-hotel-crud/';
 ?>
